@@ -7,10 +7,13 @@
 
 ## 안드로이드 앱 설치
 
-[Releases](https://github.com/gns13-space/vocashot-releases/releases/latest)에서 APK 파일을 내려받아 설치합니다.
+[최신 버전 내려받기](https://github.com/gns13-space/vocashot-releases/releases/latest/download/VocaShot.apk)
+
+[Releases](https://github.com/gns13-space/vocashot-releases/releases/latest)에서 파일을 골라 받을 수도 있습니다.
 
 | 파일 | 대상 |
 |---|---|
+| `VocaShot.apk` | 최신 버전, arm64 와 같은 파일 |
 | `VocaShot-<버전>-arm64.apk` | 대부분의 휴대폰 (2017년 이후 기기) |
 | `VocaShot-<버전>-armv7.apk` | 오래된 32비트 휴대폰 |
 
